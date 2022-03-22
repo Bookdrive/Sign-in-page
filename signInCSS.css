@@ -260,5 +260,11 @@ a:hover
     margin-left: 12rem;
     cursor: pointer;
     border: none;
+    border-radius: 2rem;
     background-color: transparent;
+}
+
+.ggl:hover
+{
+    background-color: rgba(187, 187, 187, 0.295);
 }
